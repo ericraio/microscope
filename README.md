@@ -1,4 +1,4 @@
 microscope
 ==========
 
-Application I built from http://www.discovermeteor.com book
+Meteor application I built from http://www.discovermeteor.com book
