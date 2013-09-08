@@ -25,7 +25,7 @@ Meteor.Router.filters({
     }
   },
   'clearErrors': function(page) {
-    clearErrors();
+    Errors.clearSeen();
     return page;
   }
 });
